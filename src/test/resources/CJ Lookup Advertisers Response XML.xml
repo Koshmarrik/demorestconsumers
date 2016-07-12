@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cj-api>
+    <advertisers total-matched="4" records-returned="4" page-number="1">
+        <advertiser>
+            <advertiser-id>1206555</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>74.06</seven-day-epc>
+            <three-month-epc>50.00</three-month-epc>
+            <language>en</language>
+            <advertiser-name>eBags</advertiser-name>
+            <program-url>http://www.ebags.com</program-url>
+            <relationship-status>joined</relationship-status>
+            <mobile-tracking-certified>true</mobile-tracking-certified>
+            <network-rank>5</network-rank>
+            <primary-category>
+                <parent>Travel</parent>
+                <child>Luggage</child>
+            </primary-category>
+            <performance-incentives>true</performance-incentives>
+            <actions>
+                <action>
+                    <name>Online Purchase</name>
+                    <type>advanced sale</type>
+                    <id>7648</id>
+                    <commission>
+                        <default>3.00%</default>
+                    </commission>
+                </action>
+                <action>
+                    <name>eBags Mobile Purchase</name>
+                    <type>advanced sale</type>
+                    <id>351040</id>
+                    <commission>
+                        <default>3.00%</default>
+                    </commission>
+                </action>
+            </actions>
+            <link-types>
+                <link-type>Text Link</link-type>
+                <link-type>Banner</link-type>
+                <link-type>OtherDeepLink</link-type>
+                <link-type>DeepLink</link-type>
+                <link-type>AutoMoneyDeepLink</link-type>
+            </link-types>
+        </advertiser>
+        <advertiser>
+            <advertiser-id>1602191</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>18.53</seven-day-epc>
+            <three-month-epc>27.89</three-month-epc>
+            <language>en</language>
+            <advertiser-name>Boscov's Department Stores</advertiser-name>
+            <program-url>http://www.boscovs.com</program-url>
+            <relationship-status>joined</relationship-status>
+            <mobile-tracking-certified>false</mobile-tracking-certified>
+            <network-rank>4</network-rank>
+            <primary-category>
+                <parent>Clothing/Apparel</parent>
+                <child>Malls</child>
+            </primary-category>
+            <performance-incentives>false</performance-incentives>
+            <actions>
+                <action>
+                    <name>Boscov's Online Purchase</name>
+                    <type>sale</type>
+                    <id>303986</id>
+                    <commission>
+                        <default>5.00%</default>
+                    </commission>
+                </action>
+            </actions>
+            <link-types>
+                <link-type>Text Link</link-type>
+                <link-type>Banner</link-type>
+                <link-type>OtherDeepLink</link-type>
+                <link-type>DeepLink</link-type>
+                <link-type>AutoMoneyDeepLink</link-type>
+            </link-types>
+        </advertiser>
+        <advertiser>
+            <advertiser-id>2270432</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>1.42</seven-day-epc>
+            <three-month-epc>1.77</three-month-epc>
+            <language>en</language>
+            <advertiser-name>AliExpress by Alibaba.com</advertiser-name>
+            <program-url>http://www.aliexpress.com/</program-url>
+            <relationship-status>joined</relationship-status>
+            <mobile-tracking-certified>false</mobile-tracking-certified>
+            <network-rank>4</network-rank>
+            <primary-category>
+                <parent>Department Stores/Malls</parent>
+                <child>Virtual Malls</child>
+            </primary-category>
+            <performance-incentives>false</performance-incentives>
+            <actions>
+                <action>
+                    <name>Completed Transaction (Item-based)</name>
+                    <type>advanced sale</type>
+                    <id>347752</id>
+                    <commission>
+                        <itemlist name="Products with 1st-tier Commission" id="13268">1.00%</itemlist>
+                        <itemlist name="Products with 2nd-tier Commission" id="13269">1.00%</itemlist>
+                        <itemlist name="Products with 3rd-tier Commission" id="13270">1.00%</itemlist>
+                        <default>1.00%</default>
+                    </commission>
+                </action>
+            </actions>
+            <link-types>
+                <link-type>Text Link</link-type>
+                <link-type>Banner</link-type>
+                <link-type>OtherDeepLink</link-type>
+                <link-type>DeepLink</link-type>
+                <link-type>SmartLink</link-type>
+                <link-type>AutoMoneyDeepLink</link-type>
+            </link-types>
+        </advertiser>
+        <advertiser>
+            <advertiser-id>2962777</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>15.98</seven-day-epc>
+            <three-month-epc>27.56</three-month-epc>
+            <language>en</language>
+            <advertiser-name>Adorama</advertiser-name>
+            <program-url>http://www.adorama.com</program-url>
+            <relationship-status>joined</relationship-status>
+            <mobile-tracking-certified>false</mobile-tracking-certified>
+            <network-rank>4</network-rank>
+            <primary-category>
+                <parent>Computer &amp; Electronics</parent>
+                <child>Consumer Electronics</child>
+            </primary-category>
+            <performance-incentives>false</performance-incentives>
+            <actions>
+                <action>
+                    <name>Adorama.com Purchase</name>
+                    <type>advanced sale</type>
+                    <id>336080</id>
+                    <commission>
+                        <itemlist name="Tier1" id="8859">2.00%</itemlist>
+                        <itemlist name="Tier2" id="8860">2.00%</itemlist>
+                        <itemlist name="Tier3" id="8861">2.00%</itemlist>
+                        <itemlist name="Tier4" id="8862">2.00%</itemlist>
+                        <itemlist name="Tier5" id="8863">2.00%</itemlist>
+                        <itemlist name="Tier6" id="10615">2.00%</itemlist>
+                        <itemlist name="Preorder" id="13752">USD 3.00</itemlist>
+                        <itemlist name="Non Commissionable Special Coupons" id="16737">USD 0.00</itemlist>
+                        <itemlist name="Special Commissionable SKUS" id="16738">1.50%</itemlist>
+                        <default>2.00%</default>
+                    </commission>
+                </action>
+                <action>
+                    <name>AdoramaPix.com - Online Purchase</name>
+                    <type>advanced sale</type>
+                    <id>346724</id>
+                    <commission>
+                        <default>10.00%</default>
+                    </commission>
+                </action>
+                <action>
+                    <name>Adorama Order Placed</name>
+                    <type>advanced lead</type>
+                    <id>366325</id>
+                    <commission>
+                        <default type="order-level">USD 0.00</default>
+                    </commission>
+                </action>
+                <action>
+                    <name>Adorama Order Shipped</name>
+                    <type>advanced sale</type>
+                    <id>366327</id>
+                    <commission>
+                        <itemlist name="Tier1" id="8859">2.00%</itemlist>
+                        <itemlist name="Tier2" id="8860">2.00%</itemlist>
+                        <itemlist name="Tier3" id="8861">2.00%</itemlist>
+                        <itemlist name="Tier4" id="8862">2.00%</itemlist>
+                        <itemlist name="Tier5" id="8863">2.00%</itemlist>
+                        <itemlist name="Tier6" id="10615">2.00%</itemlist>
+                        <itemlist name="Preorder" id="13752">USD 0.00</itemlist>
+                        <itemlist name="Non Commissionable Special Coupons" id="16737">USD 0.00</itemlist>
+                        <itemlist name="Special Commissionable SKUS" id="16738">1.50%</itemlist>
+                        <default>2.00%</default>
+                    </commission>
+                </action>
+            </actions>
+            <link-types>
+                <link-type>Text Link</link-type>
+                <link-type>Banner</link-type>
+                <link-type>OtherDeepLink</link-type>
+                <link-type>DeepLink</link-type>
+                <link-type>AutoMoneyDeepLink</link-type>
+            </link-types>
+        </advertiser>
+    </advertisers>
+</cj-api>

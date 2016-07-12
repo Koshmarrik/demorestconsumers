@@ -1,0 +1,86 @@
+<ns1:getMerchByAppStatusResponse xmlns:ns1="http://endpoint.linkservice.linkshare.com/">
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>146 150 16 210 149 20 17</ns1:categories>
+        <ns1:mid>560</ns1:mid>
+        <ns1:name>Rakuten LinkShare Welcome Program</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>256.1</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 0%</ns1:commissionTerms>
+            <ns1:offerId>311675</ns1:offerId>
+            <ns1:offerName>Rakuten LinkShare Public Offer</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>2151 2154 2161 2150 2191 2160 2190</ns1:categories>
+        <ns1:mid>24274</ns1:mid>
+        <ns1:name>LinkShare UK Affiliate Team</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>2.1</ns1:alsoName>
+            <ns1:commissionTerms>flat : 0 and above 2</ns1:commissionTerms>
+            <ns1:offerId>117947</ns1:offerId>
+            <ns1:offerName>LinkShare UK Base Offer</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>136 144 143 15 145 245 12</ns1:categories>
+        <ns1:mid>24762</ns1:mid>
+        <ns1:name>Rakuten, Inc.</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>14.1</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 0%</ns1:commissionTerms>
+            <ns1:offerId>236107</ns1:offerId>
+            <ns1:offerName>based program</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>138 112 13 110 4 111 137</ns1:categories>
+        <ns1:mid>36753</ns1:mid>
+        <ns1:name>pcRUSH.com</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>20.1730</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 3%</ns1:commissionTerms>
+            <ns1:offerId>226696</ns1:offerId>
+            <ns1:offerName>Welcome to the pcrush.com Affiliate Program</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>108 3 207 107 109 140 14</ns1:categories>
+        <ns1:mid>38501</ns1:mid>
+        <ns1:name>Shoes.com</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>97.4</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 6%</ns1:commissionTerms>
+            <ns1:offerId>324566</ns1:offerId>
+            <ns1:offerName>Join the Shoes.com Affiliate Program 6% Commission Baseline Offer</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>138 112 13 11 110 4 111 133</ns1:categories>
+        <ns1:mid>38606</ns1:mid>
+        <ns1:name>Best Buy Co, Inc.</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>287.12</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 0%</ns1:commissionTerms>
+            <ns1:offerId>377763</ns1:offerId>
+            <ns1:offerName>Best Buy Baseline Offer</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+    <ns1:return>
+        <ns1:applicationStatus>Approved</ns1:applicationStatus>
+        <ns1:categories>131 11</ns1:categories>
+        <ns1:mid>39891</ns1:mid>
+        <ns1:name>US-Mattress.com</ns1:name>
+        <ns1:offer>
+            <ns1:alsoName>5.1</ns1:alsoName>
+            <ns1:commissionTerms>sale : 0 and above 2%</ns1:commissionTerms>
+            <ns1:offerId>357779</ns1:offerId>
+            <ns1:offerName>2% Offer</ns1:offerName>
+        </ns1:offer>
+    </ns1:return>
+</ns1:getMerchByAppStatusResponse>
